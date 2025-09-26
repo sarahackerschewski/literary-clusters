@@ -1,0 +1,32 @@
+Cluster 0 summary (MiniLM+BART):
+and mountains? Oh, what hours of transport we shall spend! And when we _do_ return, it shall not be like other travellers, without being able to give one accurate idea of anything.” [Illustration: “At the door” ]
+---
+
+Cluster 1 summary (MiniLM+BART):
+contributes it in a fashion which I do not think the best feature of that otherwise admirable book. Although Miss Austen always liked something of the misunderstanding kind, she has been satisfied here with the false account of Darcy’s conduct given by Wickham. Only genius could have made Charlotte what she is, yet not disagreeable; Wickham what he is, without investing him either with a cheap Don Juanish attractiveness or a disgusting rascality.
+---
+
+Cluster 2 summary (MiniLM+BART):
+in the sea. It was, in fact, a sledge, like that we had seen before, which had drifted towards us in the night on a large fragment of ice. Only one dog remained alive; but there was a human being within it whom the sailors were persuading to enter the vessel. He was not, as the other traveller seemed to be, a savage inhabitant of some undiscovered island, but a European.
+---
+
+Cluster 3 summary (MiniLM+BART):
+MOBY-DICK; or, THE WHALE. By Herman Melville CONTENTS ETYMOLOGY. EXTRACTS (Supplied by a Sub-Sub-Librarian).
+---
+
+Cluster 4 summary (MiniLM+BART):
+Pride and PREJUDICE by Jane Austen, with a Preface by George Saintsbury and Illustrations by Hugh Thomson. Ruskin 156. Charing House. Cross Road. London George Allen.
+---
+
+Cluster 5 summary (MiniLM+BART):
+True Pictures of Whaling Scenes. Of Whales in Paint; in Teeth; in Wood; in Sheet-Iron; in Stone; in Mountains; in Stars.
+---
+
+Cluster 6 summary (MiniLM+BART):
+“I must now mention a circumstance which I would wish to forget myself, and which no obligation less than the present should induce me to unfold to any human being,” said Elizabeth. “I cannot be so easily reconciled to myself. The recollection of what I then said, of my conduct, my manners, my expressions during the whole of it, is now, and has been many months, inexpressibly painful to me.” “We will not quarrel for the greater share of blame annexed to that evening,’ said Elizabeth, “The
+---
+
+Cluster 7 summary (MiniLM+BART):
+minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters. “My dear Mr. Bennet,” replied his wife, “how can you be that the experience of three-and-twenty years had been insufficient to make his wife understand his character?”
+---
+

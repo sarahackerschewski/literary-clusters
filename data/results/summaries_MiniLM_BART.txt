@@ -1,0 +1,32 @@
+Cluster 0 summary (MiniLM+BART):
+before their invitation could be sent--hopeless of seeing him before. But on the third morning after his arrival in Hertfordshire, she saw him from her dressing-room window enter the paddock, and ride towards the house. Her daughters were eagerly called to partake of her joy.
+---
+
+Cluster 1 summary (MiniLM+BART):
+The whaleman is wrapped by influences all tending to make his fancy pregnant with many a mighty birth. The outblown rumors of the White Whale incorporate with themselves all manner of morbid hints, and half-formed fœtal suggestions of supernatural agencies.
+---
+
+Cluster 2 summary (MiniLM+BART):
+Ahab knew that to mankind he did long dissemble; in some sort, did still. But that thing of his dissembling was only subject to his perceptibility, not to his will determinate. When with ivory leg he stepped ashore at last, no Nantucketer thought him otherwise than but naturally grieved.
+---
+
+Cluster 3 summary (MiniLM+BART):
+in my travels; he had loitered in forests, hid himself in caves, or taken refuge in wide and desert heaths. As I looked on him, his countenance expressed the utmost extent of malice and treachery. I thought with a sensation of madness on my promise of creating another like to him, and trembling with passion, tore to pieces the thing on which I was engaged. The wretch saw me destroy the creature on whose future existence he depended for happiness, and with a howl of devilish despair and revenge, withdrew.
+---
+
+Cluster 4 summary (MiniLM+BART):
+man!” Ahab’s harpoon remained firmly lashed in its conspicuous crotch, but the sea that had stove its bottom had caused the loose leather sheath to drop off. From the keen steel barb there now came a levelled flame of pale, forked fire. As the silent harpoon burned there like a serpent's tongue, Starbuck grasped Ahab by the arm.
+---
+
+Cluster 5 summary (MiniLM+BART):
+Bingley was everything that was charming, except the professed lover of her daughter. He bore with the ill-judged officiousness of the mother, and heard all her silly remarks with a forbearance and command of countenance particularly grateful to the daughter. After this day, Jane said no more of her indifference.
+---
+
+Cluster 6 summary (MiniLM+BART):
+Moby Dick, with that malicious intelligence ascribed to him, sidelingly transplanted himself, as it were, in an instant, shooting his pleated head lengthwise beneath the boat. Through and through; through every plank and each rib, it thrilled for an instant.
+---
+
+Cluster 7 summary (MiniLM+BART):
+_did_ call on him in her return through London, and there relate her journey to Longbourn, its motive, and the substance of her conversation with Elizabeth. “It taught me to hope,” said he, “as I had scarcely ever allowed myself to hope before.” “We will not quarrel for the greater share of blame annexed to that evening,’ said Elizabeth.
+---
+

@@ -1,0 +1,32 @@
+Cluster 0 summary (MPNet+DistilBART):
+ The vast swells of the omnipotent sea; the surging, hollow roar they made, as they rolled along the eight gunwales, like gigantic bowls in a boundless bowling-green . Oarsmen must put out their eyes, and ram a skewer through their necks, in critical moments .
+---
+
+Cluster 1 summary (MPNet+DistilBART):
+ On the gentlemen’s appearing, her colour increased; yet she received them with tolerable ease . Elizabeth said as little to either as civility would allow, and sat down again to her work . Darcy, after inquiring of her how Mr. and Mrs. Gardiner did--a question which she could not answer without confusion--said scarcely anything .
+---
+
+Cluster 2 summary (MPNet+DistilBART):
+ The death of William, the execution of Justine, the murder of Clerval, and lastly of my wife; even at that moment I knew not that my only remaining friends were safe from the malignity of the fiend . My father even now might be writhing under his grasp, and Ernest might be dead at his feet .
+---
+
+Cluster 3 summary (MPNet+DistilBART):
+ I jumped into my first mate’s boat and snatching the first harpoon, let this old great-grandfather have it . But, Lord, look you, sir—hearts and souls alive, man—the next instant, in a jiff, I was blind as a bat—both eyes out .
+---
+
+Cluster 4 summary (MPNet+DistilBART):
+ Not even at the present day has the original prestige of the Sperm Whale, as fearfully distinguished from all other species of the leviathan, died out of the minds of the whalemen as a body .
+---
+
+Cluster 5 summary (MPNet+DistilBART):
+ The Tahitian and the grizzly Manxman were two seamen on board the ship's lee side . Ahab was about toss the log overboard, but the old man made bold to speak to him and the line .
+---
+
+Cluster 6 summary (MPNet+DistilBART):
+ It will then be publicly seen, that on both sides we meet only as common and indifferent acquaintance . Mrs. Bennet was giving way to all the happy schemes which the good-humour and common politeness of Bingley, in half an hour’s visit, had revived .
+---
+
+Cluster 7 summary (MPNet+DistilBART):
+ The wretch saw me destroy the creature on whose future existence he depended for happiness, and with a howl of devilish despair and revenge, withdrew . As I looked on him, his countenance expressed the utmost extent of malice and treachery .
+---
+

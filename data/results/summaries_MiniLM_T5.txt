@@ -1,0 +1,32 @@
+Cluster 0 summary (MiniLM+T5):
+, and she was able to meet her sister, and she sat down again. both sisters were uncomfortable enough, and each felt for the other.
+---
+
+Cluster 1 summary (MiniLM+T5):
+, and,,,,,, the land in this matter, so the whale fishery surpasses every other sort of maritime life, in the wonderfulness and fearfulness of the rumors which sometimes circulate there. And as the sea surpasses the land in this matter, so the whale fishery surpasses every other sort of maritime life, in the wonderfulness and fearfulness of the rumors.
+---
+
+Cluster 2 summary (MiniLM+T5):
+, ye prouder, sadder souls! question that proud, sad king! A family likeness! aye, he did beget ye, ye young exiled royalties; and from your grim sire only will the old State-secret come.. he knew that to mankind he did long dissemble; in some sort, did still.. he knew that to mankind he did long dissemble; in some sort, did still.
+---
+
+Cluster 3 summary (MiniLM+T5):
+, and he had loitered in forests, hid himself in caves, or taken refuge in heaths. he had a howl of devilish despair and revenge, withdrew. he now came to mark my progress and claim the fulfilment of my promise.
+---
+
+Cluster 4 summary (MiniLM+T5):
+, and he snatched the burning harpoon, and waved it like a torch among them. he waved it like a torch among them; snatching it as the flames melted. Ahab shook the harpoon, and snatched it like a torch among them.
+---
+
+Cluster 5 summary (MiniLM+T5):
+, and he was the professed lover of her daughter. he was a very pleasant addition to their evening party. he bore with the ill-judged officiousness of the mother.
+---
+
+Cluster 6 summary (MiniLM+T5):
+, and the whale dallied with the doomed craft aside from this tremendous apparition. he shook the slight cedar as a biting shark, slowly and feelingly taking its bows full within his mouth. now, while both elastic gunwales were springing in and out, as the whale dallied with the craft in this devilish way.
+---
+
+Cluster 7 summary (MiniLM+T5):
+, you know enough of my _frankness_ to believe me capable of _that_. Elizabeth coloured and laughed as she replied, “Yes, you know enough of my _frankness_ to be certain” she laughed as she replied, “Yes, you know enough of my _frankness_ to believe me capable of _that_. “I cannot think of it without abhorrence.” “We will not quarrel for the greater share of blame annexed to that
+---
+

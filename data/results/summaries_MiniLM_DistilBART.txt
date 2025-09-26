@@ -1,0 +1,32 @@
+Cluster 0 summary (MiniLM+DistilBART):
+ Before their invitation could be sent--hopeless of seeing him before, she saw him from her dressing-room window . Her daughters were eagerly called to partake of her joy . Jane resolutely kept her place at the table; but Elizabeth, to satisfy her mother, went to the window .
+---
+
+Cluster 1 summary (MiniLM+DistilBART):
+ The whale fishery surpasses every other maritime life, in the wonderfulness and fearfulness of the rumors which sometimes circulate there . Of all sailors, they are by all odds the most directly brought into contact with whatever is appallingly astonishing in the sea .
+---
+
+Cluster 2 summary (MiniLM+DistilBART):
+ Ahab had some glimpse of this, namely: all my means are sane, my motive and my object mad . Yet without power to kill, or change, or shun the fact; he likewise knew that to mankind he did long dissemble . But that thing of his dissembling was only subject to his perceptibility, not to his will determinate .
+---
+
+Cluster 3 summary (MiniLM+DistilBART):
+ The wretch saw me destroy the creature on whose future existence he depended for happiness, and with a howl of devilish despair and revenge, withdrew . As I looked on him, his countenance expressed the utmost extent of malice and treachery .
+---
+
+Cluster 4 summary (MiniLM+DistilBART):
+ Ahab's harpoon remained firmly lashed in its conspicuous crotch, so that it projected beyond his whale-boat’s bow . But the sea that had stove its bottom had caused the loose leather sheath to drop off . From the keen steel barb there now came a levelled flame of pale, forked fire .
+---
+
+Cluster 5 summary (MiniLM+DistilBART):
+ Mrs. Bennet'schemes for this day were ineffectual . Bingley was everything that was charming, except the professed lover of her daughter . He bore with the ill-judged officiousness of the mother, and heard all her silly remarks with a forbearance and command of countenance .
+---
+
+Cluster 6 summary (MiniLM+DistilBART):
+ The White Whale was lying on his back, in the manner of a biting shark, slowly and feelingly taking its bows full within his mouth . The long, narrow, scrolled lower jaw curled high up into the open air, and one of the teeth caught in a row-lock . In this attitude the White Whale now shook the slight cedar as a mildly cruel cat her mouse .
+---
+
+Cluster 7 summary (MiniLM+DistilBART):
+ Her Ladyship called on him in her return through London, and there relate her journey to Longbourn, its motive, and the substance of her conversation with Elizabeth . Elizabeth coloured and laughed as she replied, “Yes, you know enough of my .frankness_ to believe me capable of . that . After abusing you so abominably to your face, I could have no scruple in abusing you to all your relations.” “We will not quarrel for the greater share of blame annexed to that evening,” said Elizabeth .
+---
+

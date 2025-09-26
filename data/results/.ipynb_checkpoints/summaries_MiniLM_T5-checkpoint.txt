@@ -1,0 +1,32 @@
+Cluster 0 summary (MiniLM+T5):
+,,,, Chapter 11 Chapter 13 Chapter 18 Chapter 19 Chapter 20 Chapter 21 Chapter 22 Chapter 23 Chapter 24 Letter 1 _To Mrs. Saville, England.. St. Petersburgh, Dec. 11th, 17—. I arrived here yesterday, and my first voyage was to visit the Parsonage. I arrived here yesterday, and my first voyage was to visit the Parsonage.
+---
+
+Cluster 1 summary (MiniLM+T5):
+,,,,, and that Charlotte Lucas (her egregious papa, though delightful) is a wonderfully clever study in drab of one kind. a very badly-built novel which excelled in pathetic or humorous character, Darcy and Miss de Bourgh, Jane, Wickham, and the rest, must pass without special comment.
+---
+
+Cluster 2 summary (MiniLM+T5):
+, he was a savage inhabitant of some undiscovered island, but a European. Upon hearing this he appeared satisfied and consented to come on board. he was a man on the brink of destruction, and he was boundless. he was deprived of his wealth and rank, and the loss of his beloved Safie was more bitter and irreparable.
+---
+
+Cluster 3 summary (MiniLM+T5):
+. CHAPTER 1. Loomings. CHAPTER 2. The Carpet-Bag. CHAPTER 3. The Spouter-Inn. CHAPTER 4. The Counterpane. CHAPTER 40. Midnight, Forecastle. CHAPTER 41. The Specksnyder. CHAPTER 42. The House. CHAPTER 42. The House. CHAPTER 42. The House. CHAPTER 42. The House. CHAPTER 42. The House. CHAPTER 42. The
+---
+
+Cluster 4 summary (MiniLM+T5):
+,, _, _obscure the critical facts that its scale is small, and its scheme, after all, that of burlesque or parody, a kind in which the first rank is reached with difficulty._ Persuasion, _relatively faint in tone, and not enthralling in interest, has devotees who exalt above all the others its exquisite delicacy and keeping.
+---
+
+Cluster 5 summary (MiniLM+T5):
+82. The Honor and Glory of Whaling. CHAPTER 57. The Whale as Dish. CHAPTER 57. The Whale as Dish. CHAPTER 77. The Funeral. CHAPTER 71. The Funeral. CHAPTER 71. The Funeral. CHAPTER 71. The Funeral. CHAPTER 71. The Funeral. CHAPTER 71. The Whale as Dish. CHAPTER 57. The Whale as Dish. CHAPTER 62.
+---
+
+Cluster 6 summary (MiniLM+T5):
+, and his dissipation, were exceedingly bad. he was a violent abuser of me to others as in his reproaches to myself. he was a reproof, and he was obtruded on my notice. he was a reproof, and he was a reproof. it was unpardonable. I cannot think of it without abhorrence. ‘Had you behaved in a more gentlemanlike manner,’ 
+---
+
+Cluster 7 summary (MiniLM+T5):
+,,,,,,,,,,,,: “What is his name?” “Mr. Bennet,” replied his lady to him one day, “Do not you want to know who has taken it?” cried his wife, impatiently. “I hope Mr. Bingley will like it” [_Copyright 1894 by George Allen._]] CHAPHY: “I hope Mr. Bingley will like it” [_Co
+---
+

@@ -1,0 +1,32 @@
+Cluster 0 summary (MiniLM+DistilBART):
+ “There she blows,” was sung out from the mast-head . “Three points off the lee bow, sir.” “How far off?” "Two miles and a half” said the captain .
+---
+
+Cluster 1 summary (MiniLM+DistilBART):
+ The original iron entered nigh the tail, and, like a restless needle sojourning in the body of a man, travelled full forty feet, and at last was found imbedded in the hump . Crossing this dusky entry, and on through yon low-arched way—cut through what in old times must have been a great central chimney with fireplaces all round . On one side stood a long, low, shelf-like table covered with cracked glass cases, filled with dusty rarities gathered from this wide world’s remotest nooks
+---
+
+Cluster 2 summary (MiniLM+DistilBART):
+ Moby-Dick; or, THE WHALE. By Herman Melville CONTENTS ETYMOLOGY. EXTRACTS (Supplied by a Sub-Sub-Librarian)
+---
+
+Cluster 3 summary (MiniLM+DistilBART):
+ The pulpit is the prow of a ship on its passage out, and not a voyage complete . From thence it is the storm of God’s quick wrath is first descried, and the bow must bear the earliest brunt .
+---
+
+Cluster 4 summary (MiniLM+DistilBART):
+ True Pictures of Whaling Scenes . Of Whales in Paint; in Teeth; in Wood; in Sheet-Iron; in Stone; in Mountains; in Stars . Stubb and Flask kill a Right Whale; and Then Have a Talk over him .
+---
+
+Cluster 5 summary (MiniLM+DistilBART):
+ A hundred black faces turned round in their rows to peer; and beyond, a black Angel of Doom was beating a book in a pulpit . It was a negro church; and the preacher’s text was about the blackness of darkness .
+---
+
+Cluster 6 summary (MiniLM+DistilBART):
+ Extracts, for veritable gospel cetology. As touching the ancient authors generally, as well as the poets here appearing, these extracts are solely valuable or entertaining . They affording a glancing bird’s eye view of what has been promiscuously said, thought, fancied, and sung of Leviathan, by many nations and generations .
+---
+
+Cluster 7 summary (MiniLM+DistilBART):
+ There is no one who will speak more respectfully, not to say reverentially, of a broiled fowl than I will . When I go to sea, I go as a simple sailor, right before the mast, plumb down into the forecastle, aloft there to the royal mast-head .
+---
+

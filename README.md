@@ -110,10 +110,6 @@ This portfolio project investigates how well transformer-based models perform in
 
 ## Evaluation
 
-- different embeddings obviously lead to different clusters (see example images MPNET and MiniLM)
-
-<img src="data/results/clusters_MPNet_DistilBART.png" width="300"/>  <img src="data/results/clusters_MiniLM_DistilBART.png" width="300"/> 
-
 - **MiniLM + BART**:  
   Clusters were fairly coherent but sometimes mixed content from different novels. For example, Cluster 0 focused on _Pride and Prejudice_’s domestic scenes, while Cluster 1 captured the fantastical and supernatural elements of _Moby-Dick_. Summaries were readable but occasionally contained some repetition.  
 
@@ -129,6 +125,7 @@ This portfolio project investigates how well transformer-based models perform in
 - **MPNet + DistilBART** produced the most balanced and interpretable clusters. Each cluster captured a distinct theme, ranging from whale hunting scenes and seafaring life to domestic interactions in *Pride and Prejudice* and the tragic events in *Frankenstein*. Summaries were concise and cohesive.  
 
 - **MiniLM + DistilBART** also captured all three novels but showed more overlap between clusters. Some summaries were verbose or repeated content, with a heavier emphasis on *Moby-Dick* scenes.  
+<img src="data/results/clusters_MPNet_DistilBART.png" width="300"/>  <img src="data/results/clusters_MiniLM_DistilBART.png" width="300"/>
 
 Overall, MPNet embeddings consistently outperformed MiniLM embeddings. Regarding the summarizers, T5 performed worst of all, while BART and DistilBART performed similarly well. The resulting clusters and summaries, especially of MPNet & BART/DistilBART highlight recurring themes, character interactions and narrative patterns within each book and were able to differentiate between the books as well, e.g. distinctions between _Pride and Prejudice_’s social dialogues, _Moby-Dick_’s whaling expeditions and _Frankenstein_’s gothic suspense. This provides insight into the underlying structure of the novel.
 However, some summaries are repetitive, incomplete, or stylistically inconsistent and show that there is still potential for improvement.
